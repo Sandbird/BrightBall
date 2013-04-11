@@ -1,0 +1,89 @@
+/*
+ Localizable.strings
+ Brazil
+ 
+ Created by zhaozilong on 13-1-4.
+ 
+ */
+"localized" = "jp";
+
+//吃水果
+"eatFruits"     = "Fruit\n果物";
+"grape"         = "Grape\nぶどう";//葡萄？
+"banana"        = "Banana\nバナナ";
+"apple"         = "Apple\nりんご";
+"watermelon"    = "Watermelon\nスイカ";
+"durian"        = "Durian\nドリアン";
+"cherry"        = "Cherry\nチェリー";
+"orange"        = "Orange\nミカン";
+"eatGrape"      = "I want to eat\ngrape.\nぶどうを食べ\nたいです。";//葡萄を食べたい
+"eatBanana"     = "I want to eat\nbanana.\nバナナを食べ\nたいです。";
+"eatApple"      = "I want to eat\napple.\nりんごを食べ\nたいです。";
+"eatWatermelon" = "I want to eat\nwatermelon.\nスイカを食べ\nたいです。";
+"eatDurian"     = "I want to eat\ndurian.\nドリアンを食べ\nたいです。";
+"eatCherry"     = "I want to eat\ncherry.\nチェリーを食べ\nたいです。";
+"eatOrange"     = "I want to eat\norange.\nミカンを食べ\nたいです。";
+
+//认识蛋
+"egg"           = "Egg\n卵";
+"dinosaur"      = "Dinosaur\n恐竜";//ダイナソー
+"goose"         = "Goose\nがちよう";
+"penguin"       = "Penguin\nペンギン";
+"duck"          = "Duck\n鴨";//あひる
+"chicken"       = "Chicken\n鶏";//とり
+
+//吃蔬菜
+"vegetable"     = "Vegetable\n野菜";//やさい
+"carrot"        = "Carrot\nニンジン";//にんじん
+"corn"          = "Corn\nコーン";//とうもろこし
+"mushroom"      = "Mushroom\nキノコ";//きのこ
+"pumpkin"       = "Pumpkin\nカボチャ";//かぼちゃ
+"potato"        = "Potato\nじゃがいも";//ジャガイモ
+"tomato"        = "Tomato\nトマト";
+"eatCarrot"     = "I want to eat\ncarrot.\nニンジンを食べ\nたいです。";
+"eatCorn"       = "I want to eat\ncorn.\nコーンを食べ\nたいです。";
+"eatMushroom"   = "I want to eat\nmushroom.\nキノコを食べ\nたいです。";
+"eatPumpkin"    = "I want to eat\npumpkin.\nカボチャを食べ\nたいです。";
+"eatPotato"     = "I want to eat\npotato.\nじゃがいもを食べ\nたいです。";
+"eatTomato"     = "I want to eat\ntomato.\nトマトを食べ\nたいです。";
+
+
+//动物园
+"zoo"           = "Zoo\n動物園";//どうぶつえん
+"cow"           = "Cow\n乳牛";//（にゅうぎゅう）?
+"elephant"      = "Elephant\n象";//ぞう
+"lion"          = "Lion\n獅子";//しし
+"panda"         = "Panda\nパンダ";
+"gorilla"       = "Gorilla\nゴリラ";
+
+//ABC
+"abc" = "Song of ABC\nABCの歌";
+
+//马戏团
+"circus"        = "Circus\nサーカス";
+"joker"         = "Joker\nピエロ";
+//"elephant" = "elephant";//same to zoo
+
+//交通公路
+"road"          = "Road\n道路";//（どうろ）?
+"Tiananmen"     = "Tiananmen\n天安門";
+"EiffelTower"   = "Eiffel Tower\nエッフェル塔";
+"TriumphalArch" = "Triumphal Arch\n凱旋門";//がいせんもん
+"StatueOfLiberty" = "Statue of Liberty\n自由の女神像";//じゆうのめがみぞう
+"SydneyOperaHouse" = "Sydney Opera House\nシドニーのオペラハウス";
+"Pyramid"       = "Pyramid\nピラミッド";
+"bus"           = "Bus\nバス";
+"bicycle"       = "Bicycle\n自転車";
+"car"           = "Car\n乗用車";//マイカー
+"truck"         = "Truck\nトラック";
+"motorbike"     = "Motorbike\nバイク";
+"sun"           = "Sun\n太陽";//たいよう
+
+//表情
+"emotion" = "Emotion\n情緒";
+"angry" = "Angry\n生气";
+"sad" = "Sad\n伤心";
+"surprise" = "Surprise\n惊讶";
+"smile" = "Smile\n微笑";
+"scare" = "Scare\n害怕";
+"happy" = "Happy\n开心";

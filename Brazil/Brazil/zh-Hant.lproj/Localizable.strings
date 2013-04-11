@@ -1,0 +1,90 @@
+/*
+ Localizable.strings
+ Brazil
+ 
+ Created by zhaozilong on 13-1-4.
+ 
+ */
+
+"localized" = "cnHK";
+
+//吃水果
+"eatFruits"     = "Fruit\n水果";
+"grape"         = "Grape\n葡萄";
+"banana"        = "Banana\n香蕉";
+"apple"         = "Apple\n苹果";
+"watermelon"    = "Watermelon\n西瓜";
+"durian"        = "Durian\n榴莲";
+"cherry"        = "Cherry\n樱桃";
+"orange"        = "Orange\n桔子";
+"eatGrape"      = "I want to eat\ngrape\n我要吃葡萄";
+"eatBanana"     = "I want to eat\nbanana\n我要吃香蕉";
+"eatApple"      = "I want to eat\napple\n我要吃苹果";
+"eatWatermelon" = "I want to eat\nwatermelon\n我要吃西瓜";
+"eatDurian"     = "I want to eat\ndurian\n我要吃榴莲";
+"eatCherry"     = "I want to eat\ncherry\n我要吃樱桃";
+"eatOrange"     = "I want to eat\norange\n我要吃桔子";
+
+//认识蛋
+"egg"           = "Egg\n蛋";
+"dinosaur"      = "Dinosaur\n恐龙";
+"goose"         = "Goose\n鹅";
+"penguin"       = "Penguin\n企鹅";
+"duck"          = "Duck\n鸭子";
+"chicken"       = "Chicken\n鸡";
+
+//吃蔬菜
+"vegetable"     = "Vegetable\n蔬菜";
+"carrot"        = "Carrot\n胡萝卜";
+"corn"          = "Corn\n玉米";
+"mushroom"      = "Mushroom\n蘑菇";
+"pumpkin"       = "Pumpkin\n南瓜";
+"potato"        = "Potato\n土豆";
+"tomato"        = "Tomato\n西红柿";
+"eatCarrot"     = "I want to eat\ncarrot\n我要吃胡萝卜";
+"eatCorn"       = "I want to eat\ncorn\n我要吃玉米";
+"eatMushroom"   = "I want to eat\nmushroom\n我要吃蘑菇";
+"eatPumpkin"    = "I want to eat\npumpkin\n我要吃南瓜";
+"eatPotato"     = "I want to eat\npotato\n我要吃土豆";
+"eatTomato"     = "I want to eat\ntomato\n我要吃西红柿";
+
+
+//动物园
+"zoo"           = "Zoo\n动物园";
+"cow"           = "Cow\n奶牛";
+"elephant"      = "Elephant\n大象";
+"lion"          = "Lion\n狮子";
+"panda"         = "Panda\n熊猫";
+"gorilla"       = "Gorilla\n猩猩";
+
+//ABC
+"abc" = "Song of ABC\nABC之歌";
+
+//马戏团
+"circus"        = "Circus\n马戏团";
+"joker"         = "Joker\n小丑";
+//"elephant" = "elephant";//same to zoo
+
+//交通公路
+"road"          = "Road\n公路";
+"Tiananmen"     = "Tiananmen\n天安门";
+"EiffelTower"   = "Eiffel Tower\n艾弗尔铁塔";
+"TriumphalArch" = "Triumphal Arch\n凯旋门";
+"StatueOfLiberty" = "Statue of Liberty\n自由女神";
+"SydneyOperaHouse" = "Sydney Opera House\n悉尼歌剧院";
+"Pyramid"       = "Pyramid\n金字塔";
+"bus"           = "Bus\n公交车";
+"bicycle"       = "Bicycle\n自行车";
+"car"           = "Car\n轿车";
+"truck"         = "Truck\n卡车";
+"motorbike"     = "Motorbike\n摩托车";
+"sun"           = "Sun\n太阳";
+
+//表情
+"emotion" = "Emotion\n表情";
+"angry" = "Angry\n生气";
+"sad" = "Sad\n伤心";
+"surprise" = "Surprise\n惊讶";
+"smile" = "Smile\n微笑";
+"scare" = "Scare\n害怕";
+"happy" = "Happy\n开心";

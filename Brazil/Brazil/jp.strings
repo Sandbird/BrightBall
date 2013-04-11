@@ -1,0 +1,128 @@
+/*
+ Localizable.strings
+ Brazil
+ 
+ Created by zhaozilong on 13-1-4.
+ 
+ */
+"localized" = "jp";
+
+//吃水果
+"eatFruits"     = "Fruit\nくだもの";
+"grape"         = "Grape\nぶどう";
+"banana"        = "Banana\nバナナ";
+"apple"         = "Apple\nりんご";
+"watermelon"    = "Watermelon\nスイカ";
+"durian"        = "Durian\nドリアン";
+"cherry"        = "Cherry\nチェリー";
+"orange"        = "Orange\nミカン";
+"eatGrape"      = "I want to eat\ngrape.\nぶどうを\nたべたい.";
+"eatBanana"     = "I want to eat\nbanana.\nバナナを\nたべたい.";
+"eatApple"      = "I want to eat\napple.\nりんごを\nたべたい.";
+"eatWatermelon" = "I want to eat\nwatermelon.\nスイカを\nたべたい.";
+"eatDurian"     = "I want to eat\ndurian.\nドリアンを\nたべたい.";
+"eatCherry"     = "I want to eat\ncherry.\nチェリーを\nたべたい.";
+"eatOrange"     = "I want to eat\norange.\nミカンを\nたべたい.";
+
+//认识蛋
+"egg"           = "Egg\nたまご";
+"dinosaur"      = "Dinosaur\nきょうりゅう";
+"goose"         = "Goose\nがちよう";
+"penguin"       = "Penguin\nペンギン";
+"duck"          = "Duck\nあひる";
+"chicken"       = "Chicken\nとり";
+
+//吃蔬菜
+"vegetable"     = "Vegetable\nやさい";
+"carrot"        = "Carrot\nにんじん";
+"corn"          = "Corn\nとうもろこし";
+"mushroom"      = "Mushroom\nきのこ";//きのこ
+"pumpkin"       = "Pumpkin\nかぼちゃ";//かぼちゃ
+"potato"        = "Potato\nじゃがいも";//ジャガイモ
+"tomato"        = "Tomato\nトマト";
+"eatCarrot"     = "I want to eat\ncarrot.\nにんじんを\nたべたい.";
+"eatCorn"       = "I want to eat\ncorn.\nとうもろこしを\nたべたい.";
+"eatMushroom"   = "I want to eat\nmushroom.\nきのこを\nたべたい.";
+"eatPumpkin"    = "I want to eat\npumpkin.\nかぼちゃを\nたべたい.";
+"eatPotato"     = "I want to eat\npotato.\nじゃがいもを\nたべたい.";
+"eatTomato"     = "I want to eat\ntomato.\nトマトを\nたべたい.";
+
+
+//动物园
+"zoo"           = "Zoo\nどうぶつえん";//どうぶつえん
+"cow"           = "Cow\nにゅうぎゅう";//（にゅうぎゅう）?
+"elephant"      = "Elephant\nぞう";//ぞう
+"lion"          = "Lion\nしし";//しし
+"panda"         = "Panda\nパンダ";
+"gorilla"       = "Gorilla\nゴリラ";
+
+//ABC
+"abc" = "Song of ABC\nABCのうた";
+"do2-4" = "Do\nハイC(1つ)";
+"do1-4" = "Do\nローC(1つ)";
+"do2-2" = "Do\nハイC(2つ)";
+"re2-4" = "Re\nハイD(1つ)";
+"mi2-4" = "Mi\nハイE(1つ)";
+"mi1-4" = "Mi\nローE(1つ)";
+"mi2-2" = "Mi\nハイE(2つ)";
+"sol1-4" = "Sol\nローG(1つ)";
+"sol2-2" = "Sol\nハイG(2つ)";
+"la1-4" = "La\nローA(1つ)";
+"la1-2" = "La\nローA(2つ)";
+"si1-4" = "Si\nローB(1つ)";
+
+//马戏团
+"circus"        = "Circus\nサーカス";
+"joker"         = "Joker\nピエロ";
+//"elephant" = "elephant";//same to zoo
+
+//交通公路
+"road"          = "Road\nどうろ";//（どうろ）?
+"Tiananmen"     = "Tian'anmen\nてんあんもん";
+"EiffelTower"   = "Eiffel Tower\nエッフェルとう";
+"TriumphalArch" = "Triumphal Arch\nがいせんもん";//がいせんもん
+"StatueOfLiberty" = "Statue of Liberty\nじゆうのめがみぞう";//じゆうのめがみぞう
+"SydneyOperaHouse" = "Sydney Opera House\nシドニーのオペラハウス";
+"Pyramid"       = "Pyramid\nピラミッド";
+"bus"           = "Bus\nバス";
+"bicycle"       = "Bicycle\nじてんしゃ";
+"car"           = "Car\nじどうしゃ";//マイカー
+"truck"         = "Truck\nトラック";
+"motorbike"     = "Motorbike\nバイク";
+"sun"           = "Sun\nたいよう";//たいよう
+
+//表情
+"emotion" = "Expression\nひょうじょう";
+"angry" = "Angry\nおこってる";
+"sad" = "Sad\nかなしい";
+"surprise" = "Surprise\nおどろいた";
+"smile" = "Smile\nえがお";
+"scare" = "Scare\nこわがってる";
+"happy" = "Happy\nうれしい";
+
+//鞭炮
+"happyNewYear" = "Happy New Year\nあけましておめでとう";
+"firecracker" = "Firecracker\nばくちく";
+"snake" = "Snake\nヘビ";
+"house" = "House\nハウス";
+"lantern" = "Lantern\nちょうちん";
+
+//红包
+"redPacket" = "Red Packet\nお年玉";
+"lollipop" = "Lollipop\nロリポップ";
+"teddyBear" = "Teddy Bear\nテディベア";
+"alien" = "Alien\n宇宙人";
+"pencil" = "Pencil\nえんぴつ";
+"glasses" = "Glasses\nめがね";
+"camera" = "Camera\nカメラ";
+"mouse" = "Mouse\nネズミ";
+"goldIngot" = "Gold Ingot\nゴールドインゴット";
+
+//烟花
+"fireworks" = "Fireworks\nはなび";
+"moon" = "Moon\nつき";
+"star" = "Star\nほし";
+"sea" = "Sea\nうみ";
+"starfish" = "Starfish\nヒトデ";
+"umbrella" = "Umbrella\nかさ";
+"seashell" = "Seashell\nかいがら";

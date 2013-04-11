@@ -1,0 +1,130 @@
+/*
+ Localizable.strings
+ Brazil
+ 
+ Created by zhaozilong on 13-1-4.
+ 
+ */
+
+"localized" = "en";
+
+//吃水果
+"eatFruits" = "Fruit\n[fru:t]";
+"grape" = "Grape\n[greip]";
+"banana" = "Banana\n[bə'nɑ:nə]";
+"apple" = "Apple\n['æpəl]";
+"watermelon" = "Watermelon\n['wɔ:təmelən]";
+"durian" = "Durian\n['dʊəriən]";
+"cherry" = "Cherry\n['tʃeri]";
+"orange" = "Orange\n['ɒrindʒ]";
+"eatGrape" = "\nI want to eat\ngrape.";
+"eatBanana" = "\nI want to eat\nbanana.";
+"eatApple" = "\nI want to eat\napple.";
+"eatWatermelon" = "\nI want to eat\nwatermelon.";
+"eatDurian" = "\nI want to eat\ndurian.";
+"eatCherry" = "\nI want to eat\ncherry.";
+"eatOrange" = "\nI want to eat\norange.";
+
+//认识蛋
+"egg" = "Egg\n[eɡ]";
+"dinosaur" = "Dinosaur\n['dainəsɔ:]";
+"goose" = "Goose\n[ɡu:s]";
+"penguin" = "Penguin\n['peŋɡwin]";
+"duck" = "Duck\n[dʌk]";
+"chicken" = "Chicken\n['tʃikin]";
+
+//吃蔬菜
+"vegetable" = "Vegetable\n['vedʒtəbəl]";
+"carrot" = "Carrot\n['kærət]";
+"corn" = "Corn\n[kɔ:n]";
+"mushroom" = "Mushroom\n['mʌʃru:m]";
+"pumpkin" = "Pumpkin\n['pʌmpkin]";
+"potato" = "Potato\n[pə'teitəʊ]";
+"tomato" = "Tomato\n[tə'meitəu]";
+"eatCarrot" = "\nI want to eat\ncarrot";
+"eatCorn" = "\nI want to eat\ncorn";
+"eatMushroom" = "\nI want to eat\nmushroom";
+"eatPumpkin" = "\nI want to eat\npumpkin";
+"eatPotato" = "\nI want to eat\npotato";
+"eatTomato" = "\nI want to eat\ntomato";
+
+
+//动物园
+"zoo" = "Zoo\n[zu:]";
+"cow" = "Cow\n[kau]";
+"elephant" = "Elephant\n['elifənt]";
+"lion" = "Lion\n['laiən]";
+"panda" = "Panda\n['pændə]";
+"gorilla" = "Gorilla\n[ɡə'rilə]";
+
+//ABC
+"abc" = "Song of ABC\n[sɒŋ][əv][ei][bi:][si:]";
+"do2-4" = "Do\nHigh C(1 beat)";
+"do1-4" = "Do\nLow C(1 beat)";
+"do2-2" = "Do\nHigh C(2 beat)";
+"re2-4" = "Re\nHigh D(1 beat)";
+"mi2-4" = "Mi\nHigh E(1 beat)";
+"mi1-4" = "Mi\nLow E(1 beat)";
+"mi2-2" = "Mi\nHigh E(2 beat)";
+"sol1-4" = "Sol\nLow G(1 beat)";
+"sol2-2" = "Sol\nHigh G(2 beat)";
+"la1-4" = "La\nLow A(1 beat)";
+"la1-2" = "La\nLow A(2 beat)";
+"si1-4" = "Si\nLow B(1 beat)";
+
+
+//马戏团
+"circus" = "Circus\n['sə:kəs]";
+"joker" = "Joker\n['dʒəukə]";
+//"elephant" = "elephant";//same to zoo
+
+//交通公路
+"road" = "Road\n[rəud]";
+"Tiananmen" = "Tian'anmen\ntian an men ";
+"EiffelTower" = "Eiffel Tower\n['aifəl]['tauə]";
+"TriumphalArch" = "Triumphal Arch\n[trai'ʌmfəl][ɑ:tʃ]";
+"StatueOfLiberty" = "Statue of Liberty\n['stætʃu:][əv]['libəti]";
+"SydneyOperaHouse" = "Sydney Opera House\n['sidni]['ɔpərə][haus]";
+"Pyramid" = "Pyramid\n['pirəmid]";
+"bus" = "Bus\n[bʌs]";
+"bicycle" = "Bicycle\n['baisikl]";
+"car" = "Car\n[kɑ:]";
+"truck" = "Truck\n[trʌk]";
+"motorbike" = "Motorbike\n['məutəbaik]";
+"sun" = "Sun\n[sʌn]";
+
+//表情
+"emotion" = "Expression\n[ik'spreʃən]";
+"angry" = "Angry\n['æŋɡri]";
+"sad" = "Sad\n[sæd]";
+"surprise" = "Surprise\n[sə'praiz]";
+"smile" = "Smile\n[smail]";
+"scare" = "Scare\n[skeə]";
+"happy" = "Happy\n['hæpi]";
+
+//鞭炮
+"happyNewYear" = "Happy New Year\n['hæpɪ][njuː][jɪə]";
+"firecracker" = "Firecracker\n['faɪəkrækə]";
+"snake" = "Snake\n[sneɪk]";
+"house" = "House\n[haʊs]";
+"lantern" = "Lantern\n['læntən]";
+
+//红包
+"redPacket" = "Red Packet\n[red]['pækɪt]";
+"lollipop" = "Lollipop\n['lɒlɪpɒp]";
+"teddyBear" = "Teddy Bear\n['tedɪ][beə]";
+"alien" = "Alien\n['eɪlɪən]";
+"pencil" = "Pencil\n['pensl]";
+"glasses" = "Glasses\n['glɑ:siz]";
+"camera" = "Camera\n['kæmrə]";
+"mouse" = "Mouse\n[maʊs]";
+"goldIngot" = "Gold Ingot\n[gəʊld]['ɪŋgət]";
+
+//烟花
+"fireworks" = "Fireworks\n['faiəwə:ks]";
+"moon" = "Moon\n[muːn]";
+"star" = "Star\n[stɑː]";
+"sea" = "Sea\n[siː]";
+"starfish" = "Starfish\n['stɑːfɪʃ]";
+"umbrella" = "Umbrella\n[ʌm'brelə]";
+"seashell" = "Seashell\n['si:ʃel]";

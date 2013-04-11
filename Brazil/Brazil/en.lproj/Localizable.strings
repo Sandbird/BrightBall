@@ -1,0 +1,90 @@
+/*
+ Localizable.strings
+ Brazil
+ 
+ Created by zhaozilong on 13-1-4.
+ 
+ */
+
+"localized" = "en";
+
+//吃水果
+"eatFruits" = "Fruit\n[fru:t]";//?????????
+"grape" = "Grape\n[greip]";
+"banana" = "Banana\n[bə'nɑ:nə]";
+"apple" = "Apple\n['æp(ə)l]";
+"watermelon" = "Watermelon\n['wɔ:təmelən]";
+"durian" = "Durian\n['dʊəriən]";
+"cherry" = "Cherry\n['tʃeri]";
+"orange" = "Orange\n['ɒrin(d)ʒ]";
+"eatGrape" = "\nI want to eat grape";
+"eatBanana" = "\nI want to eat banana";
+"eatApple" = "\nI want to eat apple";
+"eatWatermelon" = "\nI want to eat watermelon";
+"eatDurian" = "\nI want to eat durian";
+"eatCherry" = "\nI want to eat cherry";
+"eatOrange" = "\nI want to eat orange";
+
+//认识蛋
+"egg" = "Egg\n[eɡ]";
+"dinosaur" = "Dinosaur\n['dainəsɔ:]";
+"goose" = "Goose\n[ɡu:s]";
+"penguin" = "Penguin\n['peŋɡwin]";
+"duck" = "Duck\n[dʌk]";
+"chicken" = "Chicken\n['tʃikin]";
+
+//吃蔬菜
+"vegetable" = "Vegetable\n['vedʒtəb(ə)l]";
+"carrot" = "Carrot\n['kærət]";
+"corn" = "Corn\n[kɔ:n]";
+"mushroom" = "Mushroom\n['mʌʃru:m]";
+"pumpkin" = "Pumpkin\n['pʌmpkin]";
+"potato" = "Potato\n[pə'teitəʊ]";
+"tomato" = "Tomato\n[tə'meitəu]";
+"eatCarrot" = "\nI want to eat\ncarrot";
+"eatCorn" = "\nI want to eat\ncorn";
+"eatMushroom" = "\nI want to eat\nmushroom";
+"eatPumpkin" = "\nI want to eat\npumpkin";
+"eatPotato" = "\nI want to eat\npotato";
+"eatTomato" = "\nI want to eat\ntomato";
+
+
+//动物园
+"zoo" = "Zoo\n[zu:]";
+"cow" = "Cow\n[kau]";
+"elephant" = "Elephant\n['elifənt]";
+"lion" = "Lion\n['laiən]";
+"panda" = "Panda\n['pændə]";
+"gorilla" = "Gorilla\n[ɡə'rilə]";
+
+//ABC
+"abc" = "Song of ABC";
+
+//马戏团
+"circus" = "Circus\n['sə:kəs]";
+"joker" = "Joker\n['dʒəukə]";
+//"elephant" = "elephant";//same to zoo
+
+//交通公路
+"road" = "Road\n[rəud]";
+"Tiananmen" = "Tiananmen\n";
+"EiffelTower" = "Eiffel Tower\n['aifəl]['tauə]";
+"TriumphalArch" = "Triumphal Arch\n[trai'ʌmf(ə)l][ɑ:tʃ]";
+"StatueOfLiberty" = "Statue of Liberty\n['stætʃu:][ɒv]['libəti]";
+"SydneyOperaHouse" = "Sydney Opera House\n['sidni]['ɔpərə][haus]";
+"Pyramid" = "Pyramid\n['pirəmid]";
+"bus" = "Bus\n[bʌs]";
+"bicycle" = "Bicycle\n['baisikl]";
+"car" = "Car\n[kɑ:]";
+"truck" = "Truck\n[trʌk]";
+"motorbike" = "Motorbike\n['məutəbaik]";
+"sun" = "Sun\n[sʌn]";
+
+//表情
+"emotion" = "Emotion\n[i'məʊʃ(ə)n]";
+"angry" = "Angry";
+"sad" = "Sad";
+"surprise" = "Surprise";
+"smile" = "Smile";
+"scare" = "Scare";
+"happy" = "Happy";
